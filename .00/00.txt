@@ -1,0 +1,13 @@
+https://github.com/
+bor@bo.od.ua        [bor-bo-od-ua]
+Ya0E3E5Br+
+
+
+
+echo "# symfony" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bor-bo-od-ua/symfony.git
+git push -u origin main
